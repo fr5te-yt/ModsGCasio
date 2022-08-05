@@ -125,6 +125,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "cave_block"
+    },
+    {
+      "name": "HUDBasic",
+      "type": "overlay",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hud_basic"
     }
   ],
   "variable_elements": [],
