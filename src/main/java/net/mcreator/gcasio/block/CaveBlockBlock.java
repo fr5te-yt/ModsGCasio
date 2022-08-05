@@ -23,7 +23,7 @@ import java.util.Collections;
 
 public class CaveBlockBlock extends Block {
 	public CaveBlockBlock() {
-		super(BlockBehaviour.Properties.of(Material.GLASS).sound(SoundType.GLASS).strength(1f, 10f));
+		super(BlockBehaviour.Properties.of(Material.GLASS).sound(SoundType.STONE).strength(1f, 10f));
 	}
 
 	@Override
