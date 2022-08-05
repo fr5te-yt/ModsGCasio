@@ -1,0 +1,11 @@
+{
+  "_fv": 28,
+  "_type": "tab",
+  "definition": {
+    "name": "GCasio",
+    "icon": {
+      "value": "Items.SKULL#3"
+    },
+    "showSearch": true
+  }
+}

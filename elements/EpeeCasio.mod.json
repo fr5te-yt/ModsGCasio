@@ -1,0 +1,27 @@
+{
+  "_fv": 28,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "epee_en_casio",
+    "customModelName": "Normal",
+    "name": "Épée en Casio",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:GCasio"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 0.7,
+    "enchantability": 16,
+    "damageVsEntity": 9.0,
+    "usageCount": 1100,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

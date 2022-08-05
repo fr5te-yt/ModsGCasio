@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "gcasio:lingotde_casio"
+    },
+    "1": {
+      "item": "gcasio:lingotde_casio"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "gcasio:epee_casio",
+    "count": 1
+  }
+}

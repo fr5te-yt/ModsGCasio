@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "gcasio:blocks/mineraisdecasio",
+    "up": "gcasio:blocks/mineraisdecasio",
+    "north": "gcasio:blocks/mineraisdecasio",
+    "east": "gcasio:blocks/mineraisdecasio",
+    "south": "gcasio:blocks/mineraisdecasio",
+    "west": "gcasio:blocks/mineraisdecasio",
+    "particle": "gcasio:blocks/mineraisdecasio"
+  }
+}
