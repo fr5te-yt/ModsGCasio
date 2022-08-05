@@ -87,6 +87,44 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "hammer_en_casio_craft"
+    },
+    {
+      "name": "Armureencasio",
+      "type": "armor",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "armureencasio",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "ArmureencasioEvenementDeTickDuCasque",
+      "type": "procedure",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "armureencasio_evenement_de_tick_du_casque",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CaveBlock",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cave_block"
     }
   ],
   "variable_elements": [],
@@ -94,9 +132,14 @@
   "language_map": {
     "en_us": {
       "item.gcasio.lingotde_casio": "Lingot de Casio",
+      "item.gcasio.armureencasio_chestplate": "Plastron en Casio",
       "itemGroup.tabg_casio": "GCasio",
+      "item.gcasio.armureencasio_leggings": "Jambières en Casio",
+      "item.gcasio.armureencasio_helmet": "Casque en Casio",
+      "item.gcasio.armureencasio_boots": "Bottes en Casio",
       "item.gcasio.hammeren_casio": "Hammer en Casio",
       "item.gcasio.epee_casio": "Épée en Casio",
+      "block.gcasio.cave_block": "Cave Block",
       "block.gcasio.mineraisde_casio": "Minerais de Casio"
     }
   },
