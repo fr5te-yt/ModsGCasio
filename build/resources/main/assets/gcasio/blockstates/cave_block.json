@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "gcasio:block/cave_block"
+    }
+  }
+}
